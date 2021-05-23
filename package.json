@@ -1,6 +1,6 @@
 {
-  "name": "coco-template",
-  "version": "0.2.1",
+  "name": "medicine-template",
+  "version": "0.2.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -51,5 +51,20 @@
     "not dead"
   ],
   "readme": "ERROR: No README data found!",
-  "_id": "coco-template@0.2.0"
+  "_id": "medicine-template@0.2.1",
+  "description": "pl desc",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shileima/coco-template.git"
+  },
+  "author": {
+    "name": "mashilei",
+    "email": "mashilei@meituan.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shileima/coco-template/issues"
+  },
+  "homepage": "https://github.com/shileima/coco-template#readme"
 }

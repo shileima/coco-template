@@ -10,7 +10,7 @@ const cdn = {
   // 生产环境
   build: {
     css: [],
-    js: ['https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.12/vue.min.js']
+    js: ['https://cdn.bootcdn.net/ajax/libs/vue/2.6.12/vue.min.js']
   }
 };
 module.exports = {

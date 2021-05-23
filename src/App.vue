@@ -1,25 +1,22 @@
 <template>
   <div id="app">
     <CocoComponent>
-      <coco-banner :obj="{
-        src: 'https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png'
-      }" />
-      <coco-form />
+      <coco-calendar />
     </CocoComponent>
   </div>
 </template>
 
 <script>
 import CocoComponent from './common/coco-component';
-import CocoBanner from './components/coco-banner/index';
-import CocoForm from './components/coco-form/index';
+// import CocoBanner from './components/coco-banner/index';
+// import CocoForm from './components/coco-form/index';
 import {getCampaignInfo} from './api';
 
 export default {
   name: 'App',
   components: {
-    CocoBanner,
-    CocoForm,
+    // CocoBanner,
+    // CocoForm,
     CocoComponent,
   },
   mounted() {

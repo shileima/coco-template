@@ -1,0 +1,21 @@
+{
+    "name": "coco-calendar",
+    "description": "日历组件",
+    "snapshot": "https://img1.baidu.com/it/u=3372150449,4275475710&fm=26&fmt=auto&gp=0.jpg",
+    "schema": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "title": "日历文案",
+          "type": "string"
+        }
+      },
+      "required": [
+        "title"
+      ]
+    },
+    "data": {
+      "title": "请选择日历"
+    }
+  }
+  
