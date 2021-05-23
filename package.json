@@ -1,6 +1,6 @@
 {
   "name": "coco-template",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -51,5 +51,5 @@
     "not dead"
   ],
   "readme": "ERROR: No README data found!",
-  "_id": "coco-template@0.1.8"
+  "_id": "coco-template@0.1.9"
 }
