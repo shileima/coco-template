@@ -1,6 +1,6 @@
 {
   "name": "calendar-template",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -51,7 +51,7 @@
     "not dead"
   ],
   "readme": "ERROR: No README data found!",
-  "_id": "calendar-template@0.2.8",
+  "_id": "calendar-template@0.2.9",
   "description": "pl desc",
   "main": "index.js",
   "repository": {
